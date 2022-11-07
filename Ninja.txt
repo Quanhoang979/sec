@@ -1,1 +1,1 @@
-Quânvip:127.0.0.1:5900:0:0
+Quânvip:0.tcp.ap.ngrok.io:14640:0:0
